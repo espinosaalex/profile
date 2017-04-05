@@ -1,0 +1,70 @@
+.card {
+  background: #DEE7E7;
+  background: #F4FAFF;
+  background: #FFE4B7;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  width: 500px;   /* Set width */
+  margin: 0 auto; /* Automatically set left/right margins */
+  text-align: center;
+}
+
+div {
+  display: block;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200;
+    color: #B0BEA9;
+    font-size: 15px;
+    line-height: 1.6em;
+    background-image: url("file:///profile/images/tumblr_nalo1rjp4G1qz6ibho1_1280.jpg")
+}
+
+
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #293139 ;
+}
+
+h1 {
+  font-size: 23px;
+  color: #000F08 ;
+}
+
+h2, h3 {
+  font-size: 19px;
+  line-height: 1.5em;
+}
+
+a {
+  text-decoration: none;
+  color: #293139;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+a:hover {
+  color: #D6A980;
+}
+
+.text-space td {
+  padding: 8px;
+}
